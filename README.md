@@ -1,5 +1,11 @@
-## Hi there 👋
+## Owen Quinter👋
 
+I'm a computer science major at Wright Statue University.
+
+Things I enjoy doing:
+- Learning more about computers and technology
+- Playing video games
+- Listening to music
 <!--
 **OQuinter17/OQuinter17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
